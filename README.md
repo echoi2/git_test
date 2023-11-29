@@ -1,2 +1,2 @@
-Test repo for the Odin Project\n
+Test repo for the Odin Project
 Hello Odin!
